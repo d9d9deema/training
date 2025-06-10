@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+<h1 align="center">Hi there, I'm Dmitry 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center">Here is my test projects</h3>
 
 2022:<br>
 [aim game](https://codepen.io/p1lus/full/wvmLpRq)<br>
@@ -22,3 +22,4 @@
 [CrossFit site](https://melodic-bonbon-61cdc2.netlify.app/)<br>
 [Watch market](https://effervescent-queijadas-4c9841.netlify.app/)<br>
 [PurpleSchool тренировка вёрстки по BAM](https://d9d9deema.github.io/purple-BAM/)<br>
+<a href="https://melodic-bonbon-61cdc2.netlify.app/" target="_blank">CrossFit site</a> 
