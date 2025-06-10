@@ -22,4 +22,3 @@
 [CrossFit site](https://melodic-bonbon-61cdc2.netlify.app/)<br>
 [Watch market](https://effervescent-queijadas-4c9841.netlify.app/)<br>
 [PurpleSchool тренировка вёрстки по BAM](https://d9d9deema.github.io/purple-BAM/)<br>
-<a href="https://melodic-bonbon-61cdc2.netlify.app/" target="_blank">CrossFit site</a> 
