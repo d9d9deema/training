@@ -1,7 +1,7 @@
 # training
 here's my test projects in programming
 
-2022:
+2022:<br>
 [aim game](https://codepen.io/p1lus/full/wvmLpRq)<br>
 [hover](https://codepen.io/p1lus/full/eYMoPYY)<br>
 [internet-mag](https://fascinating-mandazi-77a0b5.netlify.app/)<br>
@@ -17,7 +17,7 @@ here's my test projects in programming
 [quiz](https://storied-moxie-b1ddb9.netlify.app/)<br>
 [chekbox](https://euphonious-meerkat-cbca71.netlify.app/)<br>
 
-2025:
+2025:<br>
 [CrossFit site](https://melodic-bonbon-61cdc2.netlify.app/)<br>
 [Watch market](https://effervescent-queijadas-4c9841.netlify.app/)<br>
-[PurpleSchool тренировка вёрстки по BAM]([https://euphonious-meerkat-cbca71.netlify.app/](https://d9d9deema.github.io/purple-BAM/))<br>
+[PurpleSchool тренировка вёрстки по BAM](https://d9d9deema.github.io/purple-BAM/)<br>
