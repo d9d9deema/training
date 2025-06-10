@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Dmitry 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Here is my test projects</h3>
+<h3 align="center">Here is my pet projects</h3>
 
 2022:<br>
 [aim game](https://codepen.io/p1lus/full/wvmLpRq)<br>
